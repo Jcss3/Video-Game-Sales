@@ -5,8 +5,8 @@ O que foi feito ate agora?
 2 - Visualização dos valores entre media e mediana do total de vendas(total_sales)
     * Possibilidade de ter outliers aqui visto que a media esta bem maior que a mediana.
     
-3 - Verificando os Generos mais populares do dataset(moda)
-    * Podemos usar os generos para filtrar o dataset para nossa hipotese
+3 - Verificando os Generos mais populares do dataset(moda) e as plataformas
+    * Podemos usar os generos/pltaformas para filtrar o dataset para nossa hipotese
     
 4 - Ajuste dos Tipos de dados categoricos
 
