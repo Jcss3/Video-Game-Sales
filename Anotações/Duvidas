@@ -2,11 +2,14 @@
     * Inputar dados usando media de valores proximos(ex: media do total de vendas por genero)
     * Remover todos que possuem Nan
 
-2 - Quais estatisticas descritvas mostrar com graficos?
+2 - Qual covariancia usar?
+    * Atributos Genre/Platform é categorico e os sales sao numericos.
 
-3 - As hipoteses estão corretas? (validar) 
+3 - Quais estatisticas descritvas mostrar com graficos?
 
-4 - Qual teste de hipotese usar?
+4 - As hipoteses estão corretas? (validar) 
+
+5 - Qual teste de hipotese usar?
     * Pariados
     * Não Pariados
 
