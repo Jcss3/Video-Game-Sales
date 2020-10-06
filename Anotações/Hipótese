@@ -1,0 +1,10 @@
+Definição:
+    1
+    * Diferença de vendas entre os jogos, separados pelos generos , é significante?
+        _ Hipotese nula = não há diferença
+        _ Hipotese alternativa = Há diferença (Quanto mais popular o genero maior será as vendas)
+    
+    2   
+    * Diferentes Plataformas influenciam na quantidade de vendas?
+        _ Hipotese nula = não há influencia 
+        _ Hipotese alternativa = Há influencia (Dependendo da plataforma o jogo sai mais caro ou mais barato influenciando no total de vendas final)

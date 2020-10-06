@@ -1,0 +1,9 @@
+1 - Algumas colunas de dados estão com mais de 40000 casos Nan. Qual seria a melhor estrategia para tratar isso?
+    * Inputar dados usando media de valores proximos(ex: media do total de vendas por genero)
+    * Remover todos que possuem Nan
+
+2 - Quais estatisticas descritvas mostrar com graficos?
+
+3 - As hipoteses estão corretas? (são importantes) 
+
+N - Pensando...........
